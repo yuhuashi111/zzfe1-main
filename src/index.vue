@@ -30,8 +30,6 @@
   <span> </span>
   <el-button type="primary" @click="cal(value1,operator,value2)">执行</el-button>
   </div>
-  </br>
-  </br>
 
   <div id="test">
     <font size="66px" color="grey">执行结果:</font>
