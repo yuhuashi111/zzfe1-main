@@ -35,7 +35,9 @@
     <font size="66px" color="grey">执行结果:</font>
   <font size="88px">{{result}}</font>
   </div>
+  <div></div>
   
+
   </div>
 </template>
 
